@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
-  <title id="title">CalcProgram Studio logo</title>
-  <desc id="desc">A stylized calculator with code brackets</desc>
-  <rect x="12" y="8" width="104" height="112" rx="24" fill="#101828"/>
-  <rect x="28" y="24" width="72" height="24" rx="8" fill="#d7f9f1"/>
-  <path d="M48 72 36 84l12 12M80 72l12 12-12 12" fill="none" stroke="#74e0c3" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="m70 68-12 32" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
-</svg>
